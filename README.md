@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center" style="text-align: center; width: fit-content; margin-left: auto; margin-right: auto;">Optimization of a Racetrack </h1>
+
 ## Summary
 
 This project is meant to find the optimal path around a predefined racetrack given accelerationand resistance constraints
